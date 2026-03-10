@@ -1,0 +1,60 @@
+# ========================
+# Credenciais e segredos
+# ========================
+.env
+credentials.json
+service_account.json
+token.json
+*.key
+*.pem
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+.eggs/
+
+# Ambientes virtuais
+venv/
+env/
+.venv/
+.env.local
+
+# ========================
+# Jupyter / Colab
+# ========================
+.ipynb_checkpoints/
+*.ipynb
+
+# ========================
+# IDEs
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# Outputs temporários
+# ========================
+*.csv
+*.xlsx
+*.docx
+!docs/**/*.md
+
+# ========================
+# Google Cloud
+# ========================
+gcloud/
+.gcloudignore
