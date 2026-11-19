@@ -1,0 +1,25 @@
+# ========================
+# Google APIs
+# ========================
+gspread>=6.0.0
+google-auth>=2.20.0
+google-auth-oauthlib>=1.0.0
+google-cloud-bigquery>=3.11.0
+pandas-gbq>=0.19.0
+
+# ========================
+# Dados e transformação
+# ========================
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ========================
+# Relatórios e documentação
+# ========================
+python-docx>=0.8.11
+
+# ========================
+# Utilitários
+# ========================
+python-dotenv>=1.0.0
+tqdm>=4.65.0

@@ -1,0 +1,1 @@
+"""Módulos compartilhados entre dashboards."""
